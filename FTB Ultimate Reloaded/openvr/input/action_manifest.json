@@ -1,0 +1,1199 @@
+{
+  "localization": [
+    {
+      "/actions/mod/in/key.craftingtweaks.compressAll": "Crafting Tweaks - Compress All",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.snap8": "Chisels \u0026 Bits - Grid Snapped 1/2 Size Cube",
+      "/actions/ingame/in/key.drop": "Inventory - Drop Selected Item",
+      "/actions/gui/in/vivecraft.key.guiScrollAxis": "GUI - Scroll",
+      "/actions/mod/in/Cosmetic (MPS)": "Modular Powersuits - Cosmetic (MPS)",
+      "/actions/mod/in/key.immersiveengineering.magnetEquip": "Gameplay - Magnetic Shield Glove (doubletap)",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.snap4": "Chisels \u0026 Bits - Grid Snapped 1/4 Size Cube",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.snap2": "Chisels \u0026 Bits - Grid Snapped 1/8 Size Cube",
+      "/actions/mod/in/keybind.railcraft.loco.faster": "Railcraft - Locomotive Faster",
+      "/actions/ingame/in/key.back": "Movement - Walk Backwards",
+      "/actions/ingame/in/key.saveToolbarActivator": "Creative Mode - Save Toolbar Activator",
+      "/actions/global/out/lefthaptic": "Left Hand Haptic",
+      "/actions/mod/in/mod.chiselsandbits.other.rotate.ccw": "Chisels \u0026 Bits - Rotate Held Counter Clockwise",
+      "/actions/mod/in/key.toggleVisible": "The One Probe - Visibility Toggle",
+      "/actions/ingame/in/key.forward": "Movement - Walk Forwards",
+      "/actions/mod/in/ALT Key": "IC2 - ALT Key",
+      "/actions/ingame/in/key.sneak": "Movement - Sneak",
+      "/actions/mod/in/keybind.railcraft.loco.reverse": "Railcraft - Locomotive Reverse",
+      "/actions/gui/in/vivecraft.key.guiAlt": "GUI - Alt",
+      "/actions/ingame/in/key.smoothCamera": "Miscellaneous - Toggle Cinematic Camera",
+      "/actions/mod/in/key.jei.toggleCheatMode": "jei (Just Enough Items) - Toggle Cheat Mode",
+      "/actions/global": "Global",
+      "/actions/mod/in/gui.xaero_zoom_in": "Xaero\u0027s Minimap - Minimap Zoom In",
+      "/actions/mod/in/keys.techreborn.config": "TechReborn Category - Config",
+      "/actions/mod/in/key.jei.focusSearch": "jei (Just Enough Items) - Select Search Bar",
+      "/actions/mod/in/gui.xaero_instant_waypoint": "Xaero\u0027s Minimap - Quick Waypoint",
+      "/actions/technical/in/vivecraft.key.trackpadTouch": "Miscellaneous - Trackpad Touch",
+      "/actions/mod/in/key.ftbutilities.trash": "FTB Mods - Trash Can",
+      "/actions/mod/in/key.craftingtweaks.decompressAll": "Crafting Tweaks - Decompress All",
+      "/actions/mod/in/gui.xaero_enlarge_map": "Xaero\u0027s Minimap - Enlarge Minimap",
+      "/actions/mod/in/keybind.railcraft.loco.slower": "Railcraft - Locomotive Slower",
+      "/actions/mod/in/gui.xaero_minimap_settings": "Xaero\u0027s Minimap - Minimap Settings",
+      "/actions/mod/in/key.jei.showUses": "jei (Just Enough Items) - Show Uses",
+      "/actions/mod/in/Go Down (MPS Flight Control)": "Modular Powersuits - Go Down (MPS Flight Control)",
+      "/actions/mod/in/gui.xaero_display_all_sets": "Xaero\u0027s Minimap - Toggle All WP Sets Render",
+      "/actions/ingame/in/key.fullscreen": "Miscellaneous - Toggle Fullscreen",
+      "/actions/global/in/lefthand": "Left Hand Pose",
+      "/actions/mod/in/mod.chiselsandbits.other.redo": "Chisels \u0026 Bits - Redo",
+      "/actions/mixedreality/in/externalcamera": "External Camera",
+      "/actions/ingame/in/vivecraft.key.hotbarSwipeX": "Inventory - Hotbar Swipe (Left/Right)",
+      "/actions/ingame/in/vivecraft.key.hotbarSwipeY": "Inventory - Hotbar Swipe (Up/Down)",
+      "/actions/mod/in/keybind.fovfixtoggle": "Numina - keybind.fovfixtoggle",
+      "/actions/ingame/in/vivecraft.key.rotateRight": "Movement - Rotate Right",
+      "/actions/mod/in/key.craftingtweaks.clear": "Crafting Tweaks - Clear Grid",
+      "/actions/ingame/in/vivecraft.key.radialMenu": "Game Interface - Open Radial Menu",
+      "/actions/mod/in/key.craftingtweaks.rotate_counter_clockwise": "Crafting Tweaks - key.craftingtweaks.rotate_counter_clockwise",
+      "/actions/mod/in/mod.chiselsandbits.other.pickbit": "Chisels \u0026 Bits - Pick Bit",
+      "/actions/mod/in/Side Inventory Key": "IC2 - Side Inventory Key",
+      "/actions/technical": "Technical",
+      "/actions/ingame/in/vivecraft.key.freeMoveRotate": "Movement - Move/Rotate",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.cube_medium": "Chisels \u0026 Bits - Medium Cube",
+      "/actions/mod/in/mod.chiselsandbits.other.mode": "Chisels \u0026 Bits - Radial Menu",
+      "/actions/ingame/in/key.spectatorOutlines": "Miscellaneous - Highlight Players (Spectators)",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.cube_small": "Chisels \u0026 Bits - Small Cube",
+      "/actions/contextual/in/vivecraft.key.climbeyJump": "Climbey Motion - Jump Boots",
+      "/actions/mod/in/Gravi Fly Key": "Gravisuite - Gravi Fly Key",
+      "/actions/mod/in/key.craftingtweaks.decompressOne": "Crafting Tweaks - Decompress Item",
+      "/actions/mod/in/smoothfont.key.guiOpen": "Smooth Font - Open Config GUI",
+      "/actions/mod/in/gui.xaero_open_settings": "Xaero\u0027s World Map - Open Settings",
+      "/actions/gui/in/vivecraft.key.guiCtrl": "GUI - Ctrl",
+      "/actions/global/in/key.chat": "Multiplayer - Open Chat",
+      "/actions/mod/in/mod.chiselsandbits.tapemeasure.bit": "Chisels \u0026 Bits - Bit",
+      "/actions/mod/in/keybind.railcraft.loco.mode": "Railcraft - Locomotive Mode",
+      "/actions/mod/in/keybind.railcraft.cart.bed": "Railcraft - Bed Cart Sleep Key",
+      "/actions/keyboard/in/vivecraft.key.keyboardClick": "Keyboard - Click",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.cube_large": "Chisels \u0026 Bits - Large Cube",
+      "/actions/mod/in/key.jei.previousPage": "jei (Just Enough Items) - Show Previous Page",
+      "/actions/contextual/in/vivecraft.key.climbeyGrab": "Climbey Motion - Climb Claws",
+      "/actions/global/in/vivecraft.key.ingameMenuButton": "Game Interface - Game Menu",
+      "/actions/mod/in/of.key.zoom": "Miscellaneous - Zoom",
+      "/actions/ingame/in/key.screenshot": "Miscellaneous - Take Screenshot",
+      "/actions/mod/in/Boost Key": "IC2 - Boost Key",
+      "/actions/mod/in/key.immersiveengineering.chemthrowerSwitch": "Gameplay - Switch Chemthrower Tanks",
+      "/actions/mod/in/key.ftbutilities.nbt": "FTB Mods - Edit NBT",
+      "/actions/mod/in/key.craftingtweaks.force_clear": "Crafting Tweaks - Force Clear Grid",
+      "/actions/mod/in/mod.chiselsandbits.other.offgrid": "Chisels \u0026 Bits - Place Off Grid",
+      "/actions/mod/in/xreliquary.keybind.fortune_coin": "Reliquary - Enable/Disable Fortune Coin",
+      "/actions/gui/in/vivecraft.key.guiLeftClick": "GUI - Left Click",
+      "/actions/keyboard/in/vivecraft.key.keyboardShift": "Keyboard - Shift",
+      "/actions/mod/in/collectiveframework.keybindings.timeBack": "collectiveframework.keybindings.category - collectiveframework.keybindings.timeBack",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.same_material": "Chisels \u0026 Bits - Same Material",
+      "/actions/mod/in/Change Caster Focus": "Thaumcraft - Change Caster Focus",
+      "/actions/mixedreality": "Mixed Reality",
+      "/actions/ingame/in/vivecraft.key.rotateAxis": "Movement - Rotate Only",
+      "/actions/ingame/in/key.advancements": "Miscellaneous - Advancements",
+      "/actions/mod/in/collectiveframework.keybindings.timeForward": "collectiveframework.keybindings.category - collectiveframework.keybindings.timeForward",
+      "/actions/contextual": "Contextual",
+      "/actions/mod/in/Cycle Tool Backward (MPS)": "Modular Powersuits - Cycle Tool Backward (MPS)",
+      "/actions/mod/in/key.cofh.multimode": "CoFH Keys - Cycle Item Mode",
+      "/actions/mod/in/gui.xaero_toggle_waypoints": "Xaero\u0027s Minimap - Toggle Waypoints",
+      "/actions/mod/in/mod.chiselsandbits.positivepatternmode.placement": "Chisels \u0026 Bits - Placement",
+      "/actions/mod/in/key.jei.toggleBookmarkOverlay": "jei (Just Enough Items) - Show/Hide Bookmarked Ingredients",
+      "/actions/gui/in/vivecraft.key.guiScrollDown": "GUI - Scroll Down",
+      "/actions/mod/in/Open MPS Keybind GUI": "Modular Powersuits - Open MPS Keybind GUI",
+      "/actions/ingame/in/vivecraft.key.exportWorld": "Miscellaneous - Export Menu World",
+      "/actions/mod/in/invtweaks.key.sort": "Inventory Tweaks - Inventory Sorting",
+      "/actions/global/in/vivecraft.key.swapMirrorView": "Miscellaneous - Swap Mirror View",
+      "/actions/mod/in/binniecore.key.hold.for.help.tooltips": "Binnie\u0027s Mods - Hold For Help Tooltips",
+      "/actions/mod/in/key.craftingtweaks.refill_last_stack": "Crafting Tweaks - Refill Last (Stack)",
+      "/actions/mod/in/Hub Expand Key": "IC2 - Hub Expand Key",
+      "/actions/ingame/in/key.togglePerspective": "Miscellaneous - Toggle Perspective",
+      "/actions/ingame/in/vivecraft.key.rotateFree": "Movement - Rotate Free",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.plane": "Chisels \u0026 Bits - Plane",
+      "/actions/mod/in/gui.xaero_switch_waypoint_set": "Xaero\u0027s Minimap - Switch Waypoint Set",
+      "/actions/ingame/in/key.use": "Gameplay - Use Item/Place Block",
+      "/actions/global/in/key.inventory": "Inventory - Open/Close Inventory",
+      "/actions/ingame/in/key.playerlist": "Multiplayer - List Players",
+      "/actions/ingame/in/key.swapHands": "Inventory - Swap Item In Hands",
+      "/actions/mod/in/key.craftingtweaks.compressStack": "Crafting Tweaks - Compress Stack",
+      "/actions/ingame/in/key.right": "Movement - Strafe Right",
+      "/actions/mod/in/key.jei.nextPage": "jei (Just Enough Items) - Show Next Page",
+      "/actions/ingame/in/key.left": "Movement - Strafe Left",
+      "/actions/gui/in/vivecraft.key.guiRightClick": "GUI - Right Click",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.connected_plane": "Chisels \u0026 Bits - Connected Plane",
+      "/actions/ingame/in/vivecraft.key.walkabout": "Movement - Walkabout",
+      "/actions/ingame/in/vivecraft.key.toggleMovement": "Movement - Toggle Movement Mode",
+      "/actions/mod/in/key.jei.showRecipe": "jei (Just Enough Items) - Show Recipe",
+      "/actions/mod/in/Mode Switch Key": "IC2 - Mode Switch Key",
+      "/actions/mod/in/Cycle Tool Forward (MPS)": "Modular Powersuits - Cycle Tool Forward (MPS)",
+      "/actions/mod/in/key.moreoverlays.chunkbounds.desc": "More Overlays - Show/Hide Chunk Boundaries",
+      "/actions/ingame/in/key.jump": "Movement - Jump",
+      "/actions/ingame/in/key.pickItem": "Gameplay - Pick Block",
+      "/actions/mod/in/Misc Caster Toggle": "Thaumcraft - Misc Caster Toggle",
+      "/actions/mod/in/key.craftingtweaks.refill_last": "Crafting Tweaks - Refill Last",
+      "/actions/mod/in/mod.chiselsandbits.other.undo": "Chisels \u0026 Bits - Undo",
+      "/actions/global/out/righthaptic": "Right Hand Haptic",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.connected_material": "Chisels \u0026 Bits - Connected Material",
+      "/actions/ingame/in/key.sprint": "Movement - Sprint",
+      "/actions/mod/in/gui.xaero_waypoints_key": "Xaero\u0027s Minimap - Waypoints",
+      "/actions/mod/in/gui.xaero_toggle_grid": "Xaero\u0027s Minimap - Toggle Chunk Grid",
+      "/actions/mod/in/mod.chiselsandbits.positivepatternmode.impose": "Chisels \u0026 Bits - Impose",
+      "language_tag": "en_US",
+      "/actions/gui": "GUI",
+      "/actions/gui/in/vivecraft.key.guiMiddleClick": "GUI - Middle Click",
+      "/actions/ingame/in/vivecraft.key.freeMoveStrafe": "Movement - Move/Strafe",
+      "/actions/ingame/in/vivecraft.key.rotateLeft": "Movement - Rotate Left",
+      "/actions/mod/in/key.craftingtweaks.decompressStack": "Crafting Tweaks - Decompress Stack",
+      "/actions/gui/in/vivecraft.key.guiShift": "GUI - Shift",
+      "/actions/mod/in/key.narrator": "Miscellaneous - Toggle Narrator",
+      "/actions/mod/in/mod.chiselsandbits.other.rotate.cw": "Chisels \u0026 Bits - Rotate Held Clockwise",
+      "/actions/mod/in/key.toastcontrol.clear": "Toast Control - Clear Active Toasts",
+      "/actions/ingame/in/vivecraft.key.hotbarNext": "Inventory - Hotbar Next",
+      "/actions/ingame/in/vivecraft.key.teleport": "Movement - Teleport",
+      "/actions/mod/in/key.toggleLiquids": "The One Probe - Toggle Liquid View",
+      "/actions/keyboard": "Keyboard",
+      "/actions/mod/in/key.jei.recipeBack": "jei (Just Enough Items) - Show Previously Viewed Recipe",
+      "/actions/gui/in/vivecraft.key.guiScrollUp": "GUI - Scroll Up",
+      "/actions/mod/in/gui.xaero_zoom_out": "Xaero\u0027s Minimap - Minimap Zoom Out",
+      "/actions/mod/in/keybind.railcraft.loco.whistle": "Railcraft - Locomotive Whistle",
+      "/actions/global/in/vivecraft.key.toggleKeyboard": "Game Interface - Show/Hide Keyboard",
+      "/actions/mod/in/key.craftingtweaks.rotate": "Crafting Tweaks - Rotate Grid",
+      "/actions/contextual/in/vivecraft.key.vrInteract": "Gameplay - Contextual Interact",
+      "/actions/mod/in/mod.chiselsandbits.tapemeasure.distance": "Chisels \u0026 Bits - Distance",
+      "/actions/mod/in/keybind.baublesinventory": "Inventory - Baubles Inventory",
+      "/actions/mod/in/key.moreoverlays.lightoverlay.desc": "More Overlays - Show/Hide Dark Spots",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.line": "Chisels \u0026 Bits - Line",
+      "/actions/ingame/in/vivecraft.key.hotbarScroll": "Inventory - Hotbar Scroll",
+      "/actions/mod/in/key.jei.toggleOverlay": "jei (Just Enough Items) - Show/Hide JEI",
+      "/actions/ingame/in/vivecraft.key.togglePlayerList": "Multiplayer - Toggle Player List",
+      "/actions/mod": "Modded",
+      "/actions/ingame/in/key.command": "Multiplayer - Open Command",
+      "/actions/mod/in/mod.chiselsandbits.other.add_to_clipboard": "Chisels \u0026 Bits - Pick Block to Clipboard",
+      "/actions/ingame/in/key.hotbar.1": "Inventory - Hotbar Slot 1",
+      "/actions/ingame/in/key.hotbar.5": "Inventory - Hotbar Slot 5",
+      "/actions/ingame/in/key.hotbar.4": "Inventory - Hotbar Slot 4",
+      "/actions/ingame/in/key.hotbar.3": "Inventory - Hotbar Slot 3",
+      "/actions/ingame/in/key.hotbar.2": "Inventory - Hotbar Slot 2",
+      "/actions/ingame/in/key.hotbar.9": "Inventory - Hotbar Slot 9",
+      "/actions/ingame/in/key.hotbar.8": "Inventory - Hotbar Slot 8",
+      "/actions/ingame/in/key.hotbar.7": "Inventory - Hotbar Slot 7",
+      "/actions/ingame/in/key.hotbar.6": "Inventory - Hotbar Slot 6",
+      "/actions/ingame/in/key.attack": "Gameplay - Attack/Destroy",
+      "/actions/ingame/in/vivecraft.key.quickTorch": "Gameplay - Quick Torch",
+      "/actions/ingame": "In-Game",
+      "/actions/mod/in/minetogether.key.friends": "MineTogether - Open Friends List",
+      "/actions/ingame/in/vivecraft.key.hotbarPrev": "Inventory - Hotbar Previous",
+      "/actions/mod/in/mod.chiselsandbits.tapemeasure.block": "Chisels \u0026 Bits - Block",
+      "/actions/ingame/in/key.loadToolbarActivator": "Creative Mode - Load Toolbar Activator",
+      "/actions/mod/in/gui.xaero_open_map": "Xaero\u0027s World Map - Open World Map",
+      "/actions/mod/in/key.craftingtweaks.compressOne": "Crafting Tweaks - Compress Item",
+      "/actions/global/in/vivecraft.key.moveThirdPersonCam": "Miscellaneous - Move Third Person Camera",
+      "/actions/mod/in/gui.xaero_new_waypoint": "Xaero\u0027s Minimap - New Waypoint",
+      "/actions/mod/in/gui.xaero_toggle_slime": "Xaero\u0027s Minimap - Toggle Slime Chunks",
+      "/actions/mod/in/key.toggle_focus.desc": "Applied Energistics 2 - Toggle search box focus",
+      "/actions/ingame/in/vivecraft.key.teleportFallback": "Movement - Walk Forwards When Teleport Disabled",
+      "/actions/mod/in/key.craftingtweaks.toggleButtons": "Crafting Tweaks - Toggle Buttons",
+      "/actions/mod/in/mod.chiselsandbits.positivepatternmode.additive": "Chisels \u0026 Bits - Additive",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.drawn_region": "Chisels \u0026 Bits - Drawn Region",
+      "/actions/global/in/righthand": "Right Hand Pose",
+      "/actions/mod/in/mod.chiselsandbits.positivepatternmode.replace": "Chisels \u0026 Bits - Replace",
+      "/actions/mod/in/gui.xaero_toggle_map": "Xaero\u0027s Minimap - Toggle Minimap",
+      "/actions/mod/in/key.craftingtweaks.spread": "Crafting Tweaks - Spread Grid",
+      "/actions/mod/in/mod.chiselsandbits.chiselmode.single": "Chisels \u0026 Bits - Single Bit",
+      "/actions/mod/in/key.craftingtweaks.balance": "Crafting Tweaks - Balance Grid",
+      "/actions/mod/in/key.control": "Gameplay - key.control",
+      "/actions/mod/in/key.jei.bookmark": "jei (Just Enough Items) - Add/Remove a Bookmarked Ingredient"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "vive_defaults.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "oculus_defaults.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "wmr_defaults.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "knuckles_defaults.json"
+    },
+    {
+      "controller_type": "vive_cosmos_controller",
+      "binding_url": "cosmos_defaults.json"
+    },
+    {
+      "controller_type": "vive_tracker_camera",
+      "binding_url": "tracker_defaults.json"
+    }
+  ],
+  "actions": [
+    {
+      "name": "/actions/ingame/in/key.jump",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.freeMoveRotate",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.freeMoveStrafe",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateFree",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateLeft",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateAxis",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateRight",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.sneak",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.sprint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.left",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.right",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.teleport",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.toggleMovement",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.back",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.forward",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.teleportFallback",
+      "requirement": "suggested",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.walkabout",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.attack",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.vrInteract",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.immersiveengineering.magnetEquip",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.pickItem",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.quickTorch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.immersiveengineering.chemthrowerSwitch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.use",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.control",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.baublesinventory",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.drop",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarNext",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarPrev",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarScroll",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.1",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.2",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.3",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.4",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.5",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.6",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.7",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.8",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.9",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarSwipeX",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarSwipeY",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/global/in/key.inventory",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.swapHands",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.loadToolbarActivator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.saveToolbarActivator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.playerlist",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/key.chat",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.command",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.togglePlayerList",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.ingameMenuButton",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.radialMenu",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.toggleKeyboard",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.advancements",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.exportWorld",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.spectatorOutlines",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.moveThirdPersonCam",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.swapMirrorView",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.screenshot",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.smoothCamera",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.fullscreen",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.narrator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.togglePerspective",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/technical/in/vivecraft.key.trackpadTouch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/of.key.zoom",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiAlt",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiCtrl",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiLeftClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiMiddleClick",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiRightClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollAxis",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollDown",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollUp",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiShift",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.climbeyGrab",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.climbeyJump",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/keyboard/in/vivecraft.key.keyboardClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/keyboard/in/vivecraft.key.keyboardShift",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.toggle_focus.desc",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/binniecore.key.hold.for.help.tooltips",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.positivepatternmode.additive",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.tapemeasure.bit",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.tapemeasure.block",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.connected_material",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.connected_plane",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.tapemeasure.distance",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.drawn_region",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.snap8",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.snap4",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.snap2",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.positivepatternmode.impose",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.cube_large",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.line",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.cube_medium",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.pickbit",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.add_to_clipboard",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.offgrid",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.positivepatternmode.placement",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.plane",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.mode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.redo",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.positivepatternmode.replace",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.rotate.cw",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.rotate.ccw",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.same_material",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.single",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.chiselmode.cube_small",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/mod.chiselsandbits.other.undo",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.cofh.multimode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.balance",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.clear",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.compressAll",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.compressOne",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.compressStack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.decompressAll",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.decompressOne",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.decompressStack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.force_clear",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.refill_last",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.refill_last_stack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.rotate",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.spread",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.toggleButtons",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.rotate_counter_clockwise",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ftbutilities.nbt",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.ftbutilities.trash",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Gravi Fly Key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/ALT Key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Boost Key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Hub Expand Key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Mode Switch Key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Side Inventory Key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/invtweaks.key.sort",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/minetogether.key.friends",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Cosmetic (MPS)",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Cycle Tool Backward (MPS)",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Cycle Tool Forward (MPS)",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Go Down (MPS Flight Control)",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Open MPS Keybind GUI",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.moreoverlays.chunkbounds.desc",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.moreoverlays.lightoverlay.desc",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.fovfixtoggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.railcraft.cart.bed",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.railcraft.loco.faster",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.railcraft.loco.mode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.railcraft.loco.reverse",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.railcraft.loco.slower",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.railcraft.loco.whistle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/xreliquary.keybind.fortune_coin",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/smoothfont.key.guiOpen",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keys.techreborn.config",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Change Caster Focus",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Misc Caster Toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.toggleLiquids",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.toggleVisible",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.toastcontrol.clear",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_enlarge_map",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_minimap_settings",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_zoom_in",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_zoom_out",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_new_waypoint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_instant_waypoint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_switch_waypoint_set",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_display_all_sets",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_grid",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_map",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_slime",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_waypoints",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_waypoints_key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_open_settings",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_open_map",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/collectiveframework.keybindings.timeBack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/collectiveframework.keybindings.timeForward",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.bookmark",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.focusSearch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.nextPage",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.previousPage",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.recipeBack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.showRecipe",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.showUses",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleBookmarkOverlay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleOverlay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jei.toggleCheatMode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/lefthand",
+      "requirement": "suggested",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/global/in/righthand",
+      "requirement": "suggested",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/mixedreality/in/externalcamera",
+      "requirement": "optional",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/global/out/lefthaptic",
+      "requirement": "suggested",
+      "type": "vibration"
+    },
+    {
+      "name": "/actions/global/out/righthaptic",
+      "requirement": "suggested",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/ingame",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/gui",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/global",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/mod",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/contextual",
+      "usage": "single"
+    },
+    {
+      "name": "/actions/keyboard",
+      "usage": "hidden"
+    },
+    {
+      "name": "/actions/mixedreality",
+      "usage": "hidden"
+    },
+    {
+      "name": "/actions/technical",
+      "usage": "hidden"
+    }
+  ]
+}
